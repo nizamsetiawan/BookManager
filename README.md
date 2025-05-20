@@ -54,7 +54,7 @@ project-root/
 
 1. Clone repositori:
    ```bash
-   git clone https://github.com/nizamstwn/arestro.git 
+   git clone https://github.com/nizamsetiawan/BookManager.git
    cd book-manager-api
    ```
 
